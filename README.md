@@ -2,7 +2,7 @@
 
 ## Instrucciones para revisión
 
-**Profesor**, para propósitos de revisión del funcionamiento de los algoritmos, puede centrarse exclusivamente en los siguientes archivos:
+**Profesor**, para propósitos de revisión del algoritmo, puede centrarse exclusivamente en el siguiente archivo:
 
 - `# main.py`
 
